@@ -12,7 +12,8 @@
 
 ## 🎥 运行效果演示
 
-![Uploading 简要演示视频.gif…]()
+![简要演示视频](https://github.com/user-attachments/assets/94e1b359-cf0f-44b7-b3d1-b2e39eee5a18)
+
 
 ## 📁 项目架构与源码说明
 * `model_training/`：算法侧源码。包含基于 Python 的数据预处理、多分类 MLP 模型训练、多种经典算法（LR/DT/RF/MLP）对比验证，以及 TFLite Int8 量化导出脚本。
@@ -22,7 +23,7 @@
 ## 📦 快速体验 (Download APK)
 为方便测试与体验，本项目的 Android 预编译安装包 (APK) 已发布。
 请前往项目主页右侧的 **[Releases]** 页面，或直接点击下方链接下载体验：
-👉 **[点击下载最新版 APK 体验端侧推理]**
+👉 **[[点击下载最新版 APK 体验端侧推理](https://github.com/trainmelon/Edge-AI-Android-IDS/releases/tag/v1.0.1)]**
 
 ## ⚠️ 数据与开源声明
 本项目算法训练所使用的 `NSL-KDD` 数据集为开源公共数据集。为遵守代码仓库精简规范，本仓库不包含原数据集文件，请需要复现算法的开发者自行前往 Kaggle 下载并配置路径。
